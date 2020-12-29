@@ -13,7 +13,9 @@ Model의 상태를 변화시키는 것은 Controller가 해야 할 일인데, �
 좀 더 깊게 생각하면서 만들 수 있어서 공부가 많이 된 것 같다. 😏  
 
 그리고 커밋 자주 하는거랑, 커밋 메세지 작성하는건 더 공부해야겠다 ㅠㅠ..  
-
+> 더 공부했다! [outstanding1301/AngularJS-Commit-Conventions-Korean](https://github.com/outstanding1301/AngularJS-Commit-Conventions-Korean)  
+> 아직 많이 부족하지만 최대한 규약을 지키면서 커밋해봐야지...
+> 다음 미션부터는 CHANGELOG도 작성해봐야겠다.
 
 # 미션 - 숫자 야구 게임 
 
